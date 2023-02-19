@@ -40,8 +40,7 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
-role: Ph.D. student in computational biology and bioinformatics at University of
-  Southern California
+role: Ph.D. student in computational biology and bioinformatics
 highlight_name: true
 title: Xinyu (Brian) Guo 郭昕育
 first_name: Alice
