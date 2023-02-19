@@ -1,7 +1,5 @@
 ---
-title: Xinyu (Brian) Guo 郭昕育
-role: Ph.D. student in computational biology and bioinformatics at University of
-  Southern California
+avatar_filename: brian_guo-s-photo.jpg
 bio: My research interests include statistical genetics, genomics, cancer
   epidemiology and statistical machine learning.
 interests:
@@ -9,48 +7,45 @@ interests:
   - genomics
   - cancer epidemiology and statistical machine learning.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/BrianXinyu
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Thewhey-Brian
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/xinyu-guo-5408/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Southern California
+    url: https://www.qcb-dornsife.usc.edu
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: ScM in Biostatistics
+      institution: Johns Hopkins University
+      year: 2022
+    - course: BA in Mathematics
+      institution: Washington University in St. Louis
+      year: 2020
 superuser: true
 status:
   icon: ☕️
 last_name: Wu
+role: Ph.D. student in computational biology and bioinformatics at University of
+  Southern California
 highlight_name: true
+title: Xinyu (Brian) Guo 郭昕育
 first_name: Alice
-email: ""
+email: xinyug@usc.edu
 ---
 Xinyu (Brian) Guo is a Ph.D. student in [Computational Biology and Bioinformatics](https://www.qcb-dornsife.usc.edu/) at University of Southern California. He received his ScM in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) at Johns Hopkins University in 2022, adviced by Prof. Nilanjan Chatterjee and Prof. Hongkai Ji. He received his BA in [Mathematics](https://math.wustl.edu/) at Washington University in St. Louis in 2020, adviced by Prof. Todd Kuffner.
 
