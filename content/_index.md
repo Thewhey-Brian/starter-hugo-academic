@@ -4,6 +4,39 @@ title: Xinyu (Brian) Guo 郭昕育
 date: 2022-10-24
 type: landing
 
+authors:
+- admin
+
+# Is this the primary user of the site?
+superuser: true
+
+# Role/position
+role: Master Student of Biostatistics
+
+# Organizations/Affiliations
+organizations:
+- name: Department of Biostatistics, Johns Hopkins University
+        Bloomberg School of Public Health
+  url: "https://www.jhsph.edu/departments/biostatistics/"
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include nonparametric estimation, statistical learning, and bioinformatics.
+
+interests:
+- Statistical Genetics And Genomics
+- Nonparametric Estimation
+- Statistical Learning
+- Bioinformatics
+
+education:
+  courses:
+  - course: ScM in Biostatistics (current)
+    institution: Johns Hopkins University
+    year: 2021
+  - course: BA in Mathematics
+    institution: Washington University in St. Louis
+    year: 2020
+
 sections:
   - block: about.avatar
     id: about
@@ -12,9 +45,6 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-     design: 
-      columns: '2'
-
   - block: portfolio
     id: projects
     content:
